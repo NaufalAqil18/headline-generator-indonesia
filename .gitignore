@@ -1,0 +1,5 @@
+models/
+plots/
+*.pyc
+__pycache__/
+.env
