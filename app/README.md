@@ -54,14 +54,16 @@ Tampilan modern, dark mode, dan hasil perbandingan model yang mudah dibaca.
 
 ## 🏃 Cara Menjalankan
 ### 1. Jalankan Backend (FastAPI)
+Masuk ke folder /backend lalu jalankan perintah ini
 ```bash
-uvicorn gemini.backend.main:app --reload
+uvicorn main:app --reload
 ```
 - Backend berjalan di `http://localhost:8000`
 
 ### 2. Jalankan Frontend (Streamlit)
+Masuk ke folder gemini
 ```bash
-streamlit run gemini/app.py
+streamlit run app.py
 ```
 - Frontend akan terbuka di browser (`http://localhost:8501`)
 
@@ -90,7 +92,8 @@ streamlit run gemini/app.py
 ---
 
 ## 👥 Kontributor
-- Nama Anda (dan tim, jika ada)
+- Naufal Aqil
+- Shofia Nurul Huda
 
 ---
 

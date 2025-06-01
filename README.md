@@ -22,3 +22,7 @@ Dengan pendekatan ini, model tidak hanya diharapkan mampu meniru struktur judul 
 
 ## Output yang Diharapkan
 Model yang dapat menghasilkan judul artikel secara otomatis dari isi artikel, dengan kualitas judul berdasarkan parameter terukur untuk mendukung validitas hasil. 
+
+## Anggota Kelompok
+- Shofia Nurul Huda
+- Naufal Aqil
